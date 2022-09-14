@@ -1309,7 +1309,7 @@ input, select, textarea {
 			}
 
 			#header .logo__img {
-				display: center;
+				display: block;
 				width: 100%;
 			  }
 
