@@ -1308,6 +1308,11 @@ input, select, textarea {
 				font-size: 2rem;
 			}
 
+			#header .logo__img {
+				display: center;
+				width: 100%;
+			  }
+
 		#header .content {
 			border-style: solid;
 			border-color: #ffffff;
