@@ -1297,8 +1297,8 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5rem;
-			height: 5rem;
+			width: 5.5rem;
+			height: 5.5rem;
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
@@ -1307,11 +1307,6 @@ input, select, textarea {
 			#header .logo .icon:before {
 				font-size: 2rem;
 			}
-
-			#header .logo__img {
-				display: block;
-				width: 100%;
-			  }
 
 		#header .content {
 			border-style: solid;
